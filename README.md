@@ -7,5 +7,7 @@ Welcome to the repository of CoreSpectrum Studio, an independant project used to
 You can have access to CoreSpectrum Studio's content by following theses links :
 
 Youtube : https://www.youtube.com/@CoreSpectrumStudio
+
 Facebook : https://www.facebook.com/profile.php?id=61573190375866
+
 DeviantArt : https://corespectrumstudio.deviantart.com

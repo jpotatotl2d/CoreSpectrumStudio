@@ -6,8 +6,8 @@ Welcome to the repository of CoreSpectrum Studio, an independant project used to
 
 You can have access to CoreSpectrum Studio's content by following theses links :
 
-Youtube : https://www.youtube.com/@CoreSpectrumStudio
+<a href="https://www.youtube.com/@CoreSpectrumStudio">Youtube</a> | <a href="https://www.facebook.com/profile.php?id=61573190375866">Facebook</a> | <a href="https://corespectrumstudio.deviantart.com">DeviantArt</a>
 
-Facebook : https://www.facebook.com/profile.php?id=61573190375866
+<a href="https://www.fab.com/fr/sellers/JpotatO-CoreSpectrumStudio">3D model on Fab.com</a>
 
-DeviantArt : https://corespectrumstudio.deviantart.com
+<a href="https://github.com/jpotatotl2d/Coregeon-Prompt">Coregeon/_Prompt;</a>
